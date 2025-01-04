@@ -1,6 +1,6 @@
 # tidyverse_cheatsheet
 
-"A Guide to Importing Data Using the tidyverse: Cheatsheet"
+""A Guide to Importing Data Using the tidyverse: Cheatsheet""
 
 A key initial step in any project is importing external data into R. Data is commonly stored in tabular formats such as CSV files or spreadsheets.
 
